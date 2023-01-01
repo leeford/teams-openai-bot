@@ -9,14 +9,6 @@
             "size": "ExtraLarge",
             "isSubtle": true,
             "wrap": true
-        },
-        {
-            "type": "TextBlock",
-            "size": "default",
-            "isSubtle": true,
-            "text": "[made with 💖 by working-on-it](https://github.com/working-on-it)",
-            "wrap": true,
-            "maxLines": 0
         }
     ]
 }
