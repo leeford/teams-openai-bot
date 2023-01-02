@@ -2,7 +2,7 @@
 
 This is a sample example OpenAI bot for Microsoft Teams. It allows a user in Teams to send a chat message to the Bot, which then uses [OpenAI API](https://beta.openai.com/overview) to get an answer to the chat message.
 
-![Example usage](https://user-images.githubusercontent.com/472320/210185524-12d8699c-69af-4ffb-a738-317fea55b5d6.gif)
+![Example conversation](https://user-images.githubusercontent.com/472320/210224132-bd475461-6d02-48b6-9824-97151b2cc30a.gif)
 
 > Please note: Currently there is no publicly available API for [ChatGPT](https://openai.com/blog/chatgpt/). This sample uses the OpenAI API, which models don't currently include ChatGPT. The OpenAI API is currently in beta, and is not free. You can sign up for a free account [here](https://beta.openai.com/). For a list of supported models, see [here](https://beta.openai.com/docs/api-reference/models).
 
